@@ -1,6 +1,7 @@
 # dailygita_bot
-It's a basic Telegram bot that, in response to the command Vasudeva, generates Bhagavat Gita slokas.
+It's a basic Telegram bot that, in response to the command Vasudeva, generates random sloka from 18 adhyays of Bhagavat Gita.
 This was my first project where I used my fundamental programming skills.
+
 I started by making three Python files for this project.
 - **main.py**
 

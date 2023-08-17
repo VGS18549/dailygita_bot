@@ -1,5 +1,7 @@
-![Gita BOT](https://github.com/VGS18549/dailygita_bot/assets/107295767/bb711a1a-1098-4603-9ab6-5da3ec843cc2)
 # dailygita_bot
+![Gita BOT](https://github.com/VGS18549/dailygita_bot/assets/107295767/bb711a1a-1098-4603-9ab6-5da3ec843cc2)
+
+## Description
 "During my first venture into programming, I created a magnificent Telegram bot. Upon receiving the command '**Vasudeva**,' It effectively called up the random verses from the 18 adhyayas of the Bhagavad Gita.
  To achieve this feat, I employed three Python files:
 
